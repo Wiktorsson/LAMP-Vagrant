@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/home/johan/Development/Projects/egna/LAMP-Vagrant/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/johan/Development/Projects/egna/LAMP-Vagrant","disabled":false,"__vagrantfile":true}}}
